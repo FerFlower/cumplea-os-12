@@ -18,7 +18,7 @@ simplyCountdown('#cuenta', {
 	// in case of inline set to false
 	enableUtc: false, //Use UTC as default
 	onEnd: function() {
-		document.getElementById('portada').classList.add('oculta');
+		alert( "La invitacion ya caduco :v");
 		return; 
 	}, //Callback on countdown end, put your own function here
 	refresh: 1000, // default refresh every 1s
