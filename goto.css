@@ -62,7 +62,14 @@ button:hover{
     margin: auto;
 
 }
-
+@font-face {
+    font-family: tornillo;
+    src: url(cho.TTF);
+}
+@font-face {
+    font-family: tornill;
+    src: url(chot.TTF);
+}
 header{
     background-image: linear-gradient(
         0deg,

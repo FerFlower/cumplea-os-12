@@ -1,7 +1,14 @@
 *{
     box-sizing: border-box;
 }
-
+@font-face {
+    font-family: tornillo;
+    src: url(cho.TTF);
+}
+@font-face {
+    font-family:tornill ;
+    src: url(chot.TTF);
+}
 h1{font-size: 3.5em;}
 h2{font-size: 2.7em;}
 h3{font-size: 2em;}
